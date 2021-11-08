@@ -53,7 +53,7 @@ Comment test_batch = final_adv_pair[0] line for simple evaluation.
 Adversarial Examples of both Question reordering and Sentence Paraphrasing would be formed as a new output folder in Model directory.
 
 
-We have utilized model implementations of MWP solvers from their respective repositories:
+We have utilized model implementations in parts of MWP solvers from their respective repositories:
 
 GTS: https://github.com/ShichaoSun/math_seq2tree
 
